@@ -1,1 +1,2 @@
-print("Ja sam robot Bozo")`
+for i in range(10);
+print("Ja sam robot Bozo")
